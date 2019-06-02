@@ -1,0 +1,21 @@
+{
+  "name": "twitter-bot-nodejs",
+  "version": "1.0.0",
+  "description": "A simple twitter bot in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javscript",
+    "twitter",
+    "bot"
+  ],
+  "author": "Linwish",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
